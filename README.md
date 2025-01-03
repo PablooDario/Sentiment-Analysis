@@ -12,3 +12,4 @@ patrocinado por
 - Skillshare
 
 ## Preprocessing
+usando un approach feature based estamos tomando embeddings generados por RoBERTa para usarlos en nuestro modelo LTSM
