@@ -4,7 +4,7 @@ Project members:
 - Sebastián Loeza
 - Luis Daniel Moreno Santamaría
 <br>
-patrocinado por
+patrocinado por:
 - Raid: Shadow Legends
 - NordVPN
 - BetterHelp
