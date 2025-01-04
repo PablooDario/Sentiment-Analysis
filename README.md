@@ -15,8 +15,13 @@ patrocinado por:
 usando un approach feature based estamos tomando embeddings generados por RoBERTa, un encoder que trabaja finamente parametrizado medienate el enmáscarado de tokens bidireccionales y para usarlos en nuestro modelo LTSM
 
 ## Experiment
+*Which model will perform the best at classifying the emotions behind the tweets?*
+the performance will be evaluated with the f1-score metric, since it is convenient to have summarized the Error type I and Error type II ratios in a single number.
 
 Hypothesis: the fine tuning-based model will outperform the feature based approach of the LTSM
+*methodology:*
+![zientifik mewtod :3](data/fuck around, find out.jpg)
+
 
 ## Results
 
