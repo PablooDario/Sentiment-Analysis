@@ -20,7 +20,7 @@ the performance will be evaluated with the f1-score metric, since it is convenie
 
 Hypothesis: the fine tuning-based model will outperform the feature based approach of the LTSM
 *methodology:*
-![zientifik mewtod :3](data/fuck around_find out.png)
+![zientifik mewtod :3](data/fuckAround_findOut.png)
 
 
 ## Results
