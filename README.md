@@ -12,7 +12,7 @@ patrocinado por:
 - Skillshare
 
 ## Preprocessing
-usando un approach feature based estamos tomando embeddings generados por RoBERTa, un encoder que trabaja finamente parametrizado medienate el enmáscarado de tokens bidireccionales y para usarlos en nuestro modelo LTSM
+usando un approach feature based estamos tomando embeddings generados por RoBERTa, un encoder que trabaja finamente parametrizado mediante el enmáscarado de tokens bidireccionales para usarlos en nuestro modelos LTSM y BERT.
 
 ## Experiment
 *Which model will perform the best at classifying the emotions behind the tweets?*
